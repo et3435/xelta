@@ -6589,3 +6589,9 @@ figcaption {
 .rich-text-block h3 {
   font-size: 1.8rem !important;
 }
+
+@media screen and (max-width: 479px) {
+  .heading-hero.c {
+      font-size: 2.5rem;
+  }
+}
